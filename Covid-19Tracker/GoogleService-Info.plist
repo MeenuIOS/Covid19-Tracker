@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>177679481954-a3f739mg8p86k3129hld9kvp8ss25fb9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.177679481954-a3f739mg8p86k3129hld9kvp8ss25fb9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUbosIj4m3Riy4tv0E-8-OKPIPSkQQbP0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>177679481954</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Personal.Covid-19Tracker</string>
+	<key>PROJECT_ID</key>
+	<string>covid19tracker-124ec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>covid19tracker-124ec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:177679481954:ios:68f29a34e679122d5a253b</string>
+	<key>DATABASE_URL</key>
+	<string>https://covid19tracker-124ec.firebaseio.com</string>
+</dict>
+</plist>
